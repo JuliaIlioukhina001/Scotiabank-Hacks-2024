@@ -33,9 +33,3 @@ Job posting scams are increasingly prevalent, particularly in Latin American reg
 
 - **Machine Learning Model**: As more user data is collected, a custom-trained ML model will be developed to identify common scam patterns more effectively.
 - **Partnership Opportunities**: The platform could partner with banks and other financial institutions to offer rewards and incentives for users who engage in secure online practices.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fraud-guardian.git
